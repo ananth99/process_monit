@@ -1,0 +1,9 @@
+###################################################
+#  Config file for process monit.
+#  Comments start with `#`
+#  Inspired from monit style configuration.
+###################################################
+ngrok
+redis
+postgresql
+
